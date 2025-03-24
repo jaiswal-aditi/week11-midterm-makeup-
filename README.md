@@ -1,5 +1,5 @@
 # ICS 212
-## Midterm- Week 8 (Wednesday, March5)
+## Midterm(makeup)- Week 11 
 
 ### Instructions:
 - Update the program files following instructions provided in MidTerm_Wednesday_March_5th_Week8.pdf (uploaded on Laulima) and in the program comments.
